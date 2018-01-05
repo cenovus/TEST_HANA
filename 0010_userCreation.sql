@@ -15,7 +15,7 @@ create user LPA_INTEGRATION_READ password Saphana123;
 alter user LPA_INTEGRATION_READ disable password lifetime;
 create user KPI_INTEGRATION_READ password Saphana123;
 alter user KPI_INTEGRATION_READ disable password lifetime;
-
+adbkdbfkadffnsdfsdfl
 --create the roles
 create role CVE_OFM_INTEGRATION_READ;
 create role CVE_WATERWITHDRAWAL_INTEGRATION_READ;
