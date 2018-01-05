@@ -42,3 +42,4 @@ grant CVE_VP_INTEGRATION_READ to VP_INTEGRATION_READ;
 -- create users - supplemental
 create user s_vpsvc password Svpsvc2015;
 alter user s_vpsvc disable password lifetime;
+fsdjkfsdkfhsdkfjsdkfjsdfjsdklfjsdklfjsdkljfrom 
